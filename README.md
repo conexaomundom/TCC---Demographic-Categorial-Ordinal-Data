@@ -9,7 +9,7 @@ regression models, regression models for categorical data, which have an ordinal
 it can be seen that in all models tested the variable Sex was significant and the coefficient
 estimate was negative, as the reference category is being of male sex, then being female
 negatively influences the Average Salary. Therefore, it can be concluded that there is a
-salary difference between the sexes in the state of Para´ıba, the average salary for women
+salary difference between the genders in the state of Para´ıba, the average salary for women
 is 0.5951 times the average salary for men.
 
 Key-words:Regression, Ordinal Logistic Regression, Average salary, Salary Difference, Gender.
